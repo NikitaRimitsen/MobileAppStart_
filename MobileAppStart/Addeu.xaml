@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileAppStart.Addeu">
+    <ContentPage.Content>
+        <ScrollView>
+            <!--<StackLayout>
+                <Entry x:Name="nimetuseu" Placeholder="Riigi nimi" TextColor="Yellow" PlaceholderColor="Yellow"></Entry>
+                <Entry x:Name="pealinneu" Placeholder="Pealinna nimi" TextColor="Yellow" PlaceholderColor="Yellow"></Entry>
+                <Entry x:Name="elanikoodeu" Placeholder="Kui palju inimesi elab" TextColor="Yellow" PlaceholderColor="Yellow"></Entry>
+                <Entry x:Name="piltieu" Placeholder="Viide riigi lipule" TextColor="Yellow" PlaceholderColor="Yellow"></Entry>
+                <FlexLayout>
+                    <Button x:Name="save" Text="Salvestama" Clicked="Namer_Clicked" TextColor="LightYellow" BackgroundColor="DarkBlue"></Button>
+                    <Button x:Name="cancel" Text="Tühistama" Clicked="cancel_Clicked"  TextColor="LightYellow" BackgroundColor="DarkBlue"></Button>
+                </FlexLayout>
+        </StackLayout>-->
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
